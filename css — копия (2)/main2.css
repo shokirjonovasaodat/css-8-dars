@@ -1,0 +1,22 @@
+.wrap{
+    width: 1200px;
+    margin: 100px auto;
+}
+.menu{
+    margin-left: 150px;
+    padding: 0;
+ 
+}
+.menu-item{
+    float: left;
+    margin: 0 20px;
+    line-height: 40px;
+    background-image: url(../rasmlar/06.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.menu-item{
+    color: gray;
+    text-decoration: none;
+}
+

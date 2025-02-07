@@ -1,0 +1,94 @@
+.box{
+    width: 1200px;
+    margin: 280px auto;
+}
+.box-item1{
+    color: gray;
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 100px;
+}
+.box-item2{
+    color: gray;
+    display: inline-block;
+    font-size: 25px;
+    margin-left:100px;
+}
+.box-item3{
+    color: gray;
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 100px;
+}
+.box-item4{
+    color: gray;
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 100px;
+}
+.box-item5{
+    color: gray;
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 100px;
+}
+.button{
+    background-color: rgb(128, 207, 123);
+    width: 120px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 30px;
+}
+.button2{
+    background-color: lightgray;
+    width: 120px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 30px;
+}
+.button3{
+    background-color: black;
+    width: 110px;
+    height: 60px;
+    border: 1px solid;
+}
+.button4{
+    background-color: lightgray;
+    width: 120px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 30px;
+}
+.button5{
+    background-color:rgb(128, 207, 123);
+    width: 110px;
+    height: 60px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.dumaloq{
+    width: 50px;
+    height: 45px;
+    background-color: white;
+    border: 1px solid;
+    border-radius: 30px;
+}
+.button2:hover .dumaloq{
+    transform: translateX(65px);
+}
+.button:hover .dumaloq{
+    transform: translateX(65px);
+}
+.button4:hover .dumaloq{
+    transform: translateX(65px);
+}
+.button3:hover {
+    transform: translateX(5px);
+    background-color: rgb(217, 71, 71);
+}
+.button5:hover {
+    transform: translateX(5px);
+    background-color:gray ;
+}
+
+
